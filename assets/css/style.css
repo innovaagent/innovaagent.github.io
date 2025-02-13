@@ -1767,8 +1767,13 @@ header {
 }
 
 .single-service:hover h4,
-.single-service:hover p {
+.single-service:hover p,
+.single-service:hover .check li {
   color: #E4E4E4;
+}
+
+.single-service:hover .check li i img {
+  filter: brightness(0) invert(1); /* Makes the SVG icon white */
 }
 
 .single-service:hover .read-btn a {
