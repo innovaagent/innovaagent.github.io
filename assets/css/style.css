@@ -3671,10 +3671,12 @@ footer.error {
   color: #E4E4E4;
 }
 
+.layout2 .check li,
 .about-left.layout2 .check li {
   color: #E4E4E4;
 }
 
+.layout2 .check li i img,
 .about-left.layout2 .check li i img {
   filter: brightness(0) invert(1);
 }
