@@ -3671,6 +3671,14 @@ footer.error {
   color: #E4E4E4;
 }
 
+.about-left.layout2 .check li {
+  color: #E4E4E4;
+}
+
+.about-left.layout2 .check li i img {
+  filter: brightness(0) invert(1);
+}
+
 .company-since.layout2 {
   background: #0D0D0F;
   -webkit-box-shadow: inset 0px 0px 10px rgba(6, 6, 6, 0.15);
